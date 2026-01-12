@@ -4,11 +4,14 @@
 
 :root {
     /* color-scheme: light dark; */
-    --light: #fff;
-    --lesslight: #efefef;
+    --light: red;
+    /* --light: #fff; */
+    --lesslight: red;
+    /* --lesslight: #efefef; */
     --dark: red;
     /* --dark: #404040; */
-    --moredark: #000;
+    --moredark: red;
+    /* --moredark: #000; */
     --link: royalblue;
     border-top: 5px solid var(--dark);
     line-height: 1.5em;
