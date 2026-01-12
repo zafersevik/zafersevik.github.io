@@ -10,7 +10,7 @@
     /* --lesslight: #efefef; */
     --dark: green;
     /* --dark: #404040; */
-    --moredark: gray;
+    --moredark: white;
     /* --moredark: #000; */
     --link: royalblue;
     border-top: 5px solid var(--dark);
