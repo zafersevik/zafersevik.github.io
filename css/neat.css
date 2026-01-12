@@ -6,11 +6,11 @@
     /* color-scheme: light dark; */
     --light: red;
     /* --light: #fff; */
-    --lesslight: red;
+    --lesslight: yellow;
     /* --lesslight: #efefef; */
-    --dark: white;
+    --dark: green;
     /* --dark: #404040; */
-    --moredark: red;
+    --moredark: gray;
     /* --moredark: #000; */
     --link: royalblue;
     border-top: 5px solid var(--dark);
