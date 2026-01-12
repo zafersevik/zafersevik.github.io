@@ -6,7 +6,8 @@
     /* color-scheme: light dark; */
     --light: #fff;
     --lesslight: #efefef;
-    --dark: #404040;
+    --dark: red;
+    /* --dark: #404040; */
     --moredark: #000;
     --link: royalblue;
     border-top: 5px solid var(--dark);
